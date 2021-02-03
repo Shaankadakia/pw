@@ -92,6 +92,19 @@ p {
     font-family: fantasy;
     font-size: 20px;
 }
-.links:hover{
-    background-color:aquamarine;
+
+.links:hover {
+    background-color: aquamarine;
+}
+Html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: darkblue;
+}
+body{
+    text-align: center;
 }
